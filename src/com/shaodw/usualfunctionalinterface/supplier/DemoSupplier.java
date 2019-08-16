@@ -1,4 +1,4 @@
-package com.shaodw.usualfunctionalinterface;
+package com.shaodw.usualfunctionalinterface.supplier;
 
 import java.util.function.Supplier;
 
